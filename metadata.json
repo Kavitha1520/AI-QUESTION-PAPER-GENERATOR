@@ -1,0 +1,7 @@
+{
+  "name": "Firebase Auth & User Management",
+  "description": "Secure authentication, registration, email verification, and user management powered by Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
